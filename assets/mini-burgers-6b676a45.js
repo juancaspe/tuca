@@ -1,0 +1,1 @@
+const s="/assets/alitas-diablas-5f68dcc4.jpg",a="/assets/alitas-acevichadas-aaa526d5.jpg",t="/assets/alitas-remix-211c512d.jpg",c="/assets/salchipapa-9bdbcee3.jpg",i="/assets/chicharron-de-pollo-891892d7.jpg",o="/assets/mini-burgers-44b3bb27.jpg";export{s as _,a,t as b,c,i as d,o as e};
